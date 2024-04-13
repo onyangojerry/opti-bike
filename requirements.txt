@@ -1,0 +1,4 @@
+Django>=3.2,<4.0  # Use a specific Django version range depending on your compatibility needs
+djangorestframework  # If you plan to use Django REST framework for APIs
+requests  # Useful for making network requests to the Google Maps API
+googlemaps  # Python client library for Google Maps API services
